@@ -1,0 +1,7 @@
+.t1{
+    text-decoration: none;
+    color: #b22222;
+  }
+  :hover.t1{
+    font-weight: bold;
+  }
